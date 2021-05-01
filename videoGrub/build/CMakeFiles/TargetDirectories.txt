@@ -1,0 +1,3 @@
+/home/lym/Robomaster/videoGrub/build/CMakeFiles/rebuild_cache.dir
+/home/lym/Robomaster/videoGrub/build/CMakeFiles/videoGrub.dir
+/home/lym/Robomaster/videoGrub/build/CMakeFiles/edit_cache.dir

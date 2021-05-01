@@ -1,0 +1,3 @@
+/home/lym/Robomaster/GmmBackGround/build/CMakeFiles/rebuild_cache.dir
+/home/lym/Robomaster/GmmBackGround/build/CMakeFiles/GmmBG.dir
+/home/lym/Robomaster/GmmBackGround/build/CMakeFiles/edit_cache.dir
